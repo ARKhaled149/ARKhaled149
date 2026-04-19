@@ -1,7 +1,3 @@
-<!-- ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ -->
-<!--     Abdelrahman · Software Engineer · AI Systems · Berlin    -->
-<!-- ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ -->
-
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?font=Space+Grotesk&weight=500&size=34&pause=1200&color=C6FF3D&center=true&vCenter=true&width=820&height=60&lines=Abdelrahman+Abdelrahman.;Software+Engineer+%C2%B7+Berlin;Building+AI+systems.;Medical+CV+%C2%B7+LLMs+%C2%B7+XR+%C2%B7+Automations" alt="Typing SVG" />
 </h1>
@@ -163,4 +159,4 @@ I moved from Egypt to Berlin with a plan and rebuilt it a dozen times along the 
 - Email — **[arkhaled.1490@gmail.com](mailto:arkhaled.1490@gmail.com)**
 - Discord — **[@a.r.khaled](https://discord.com/users/625086191083061268)**
 
-<sub><em>Every setback taught me something. The journey continues. — Berlin, 2026</em></sub>
+<sub><em>Berlin · 2026 — open to AI/LLM roles and collaborations.</em></sub>
