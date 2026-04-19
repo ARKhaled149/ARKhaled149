@@ -1,11 +1,166 @@
-# 💫 About Me:
-About Me<br>Egyptian Software Engineer based in Berlin, Germany. I have a background in Computer Engineering and a passion for building meaningful solutions. Currently transitioning into embedded systems while nurturing my love for AI/LLM technologies. I believe in steady growth, resilience, and always moving forward — one step at a time.<br><br>Currently Working On<br>Starting my role as a Software Engineer at Elpro in the embedded systems field. Building personal projects to strengthen my AI/LLM skills. Improving my German language skills with a goal of reaching B1 level.<br><br>Looking to Collaborate On<br>AI/LLM projects, especially practical applications. Python/Django backend projects. Open source projects that solve real-world problems.<br><br>Looking for Help With<br>Deepening my knowledge in Machine Learning and Large Language Models. Learning best practices for embedded systems development. Connecting with developers in the Berlin tech community.<br><br>Currently Learning<br>German language, moving from C1. AI/LLM technologies and frameworks. Embedded systems programming. Improving my Data Structures and Algorithms skills.<br><br>Ask Me About<br>Backend development with Python and Django. Navigating the German job market as an international. The journey from internship to full-time software engineer. Balancing career growth with continuous learning.<br><br>Fun Fact<br>I moved from Egypt to Germany with a dream and determination. After navigating visa challenges, language barriers, and career pivots, I am now building my path as a Software Engineer in Berlin. Every setback taught me something. The journey continues.
+<!-- ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ -->
+<!--     Abdelrahman · Software Engineer · AI Systems · Berlin    -->
+<!-- ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ -->
 
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Space+Grotesk&weight=500&size=34&pause=1200&color=C6FF3D&center=true&vCenter=true&width=820&height=60&lines=Abdelrahman+Abdelrahman.;Software+Engineer+%C2%B7+Berlin;Building+AI+systems.;Medical+CV+%C2%B7+LLMs+%C2%B7+XR+%C2%B7+Automations" alt="Typing SVG" />
+</h1>
 
-## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.com/users/625086191083061268) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/a.r.khaled) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/abdelrahman-abdelrahman-swe) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:arkhaled.1490@gmail.com) 
+<p align="center">
+  <a href="https://abdelrahman.eu"><img src="https://img.shields.io/badge/-abdelrahman.eu-C6FF3D?style=for-the-badge&logo=vercel&logoColor=04040A&labelColor=04040A" alt="portfolio"/></a>
+  <a href="https://linkedin.com/in/abdelrahman-abdelrahman-swe"><img src="https://img.shields.io/badge/-LinkedIn-8A5CFF?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=04040A" alt="linkedin"/></a>
+  <a href="mailto:arkhaled.1490@gmail.com"><img src="https://img.shields.io/badge/-Email-00E5FF?style=for-the-badge&logo=gmail&logoColor=04040A&labelColor=04040A" alt="email"/></a>
+  <a href="https://discord.com/users/625086191083061268"><img src="https://img.shields.io/badge/-Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white&labelColor=04040A" alt="discord"/></a>
+</p>
 
-# 💻 Tech Stack:
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![Angular.js](https://img.shields.io/badge/angular.js-%23E23237.svg?style=for-the-badge&logo=angularjs&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![nVIDIA](https://img.shields.io/badge/cuda-000000.svg?style=for-the-badge&logo=nVIDIA&logoColor=green) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white) ![OpenGL](https://img.shields.io/badge/OpenGL-%23FFFFFF.svg?style=for-the-badge&logo=opengl) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Apache Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-badge&logo=Apache%20Maven&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Framer](https://img.shields.io/badge/Framer-black?style=for-the-badge&logo=framer&logoColor=blue) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![mlflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=for-the-badge&logo=numpy&logoColor=blue) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white) ![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white) ![nVIDIA](https://img.shields.io/badge/nVIDIA-%2376B900.svg?style=for-the-badge&logo=nVIDIA&logoColor=white) ![AMD](https://img.shields.io/badge/AMD-%23000000.svg?style=for-the-badge&logo=amd&logoColor=white) ![Raspberry Pi](https://img.shields.io/badge/-Raspberry_Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) ![Meta](https://img.shields.io/badge/Meta-%230467DF.svg?style=for-the-badge&logo=Meta&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=ARKhaled149&label=Profile+Views&color=C6FF3D&style=flat-square" alt="profile views"/>
+  <img src="https://img.shields.io/badge/Available_for_work-C6FF3D?style=flat-square&labelColor=04040A" alt="available"/>
+  <img src="https://img.shields.io/badge/Based_in-Berlin-8A5CFF?style=flat-square&labelColor=04040A" alt="berlin"/>
+</p>
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+---
+
+## 👋 About
+
+Software Engineer at **Elpro GmbH** in Berlin, working on AI-driven energy systems. Before that: MSc in Computer Engineering at GIU Berlin (2024–25), BSc at GUC Cairo (2017–22), and roles in data integration, blockchain, and XR research.
+
+My passion is **AI and LLM engineering** — practical tools, intelligent automations, and making complex systems feel effortless. Free time goes to XR, games, and long runs.
+
+I moved from Egypt to Berlin with a plan and rebuilt it a dozen times along the way. The journey continues.
+
+---
+
+## 🏆 Signals
+
+<table>
+  <tr>
+    <td><strong>🎓 MSc thesis</strong></td>
+    <td>Breast ultrasound segmentation — <code>Dice 0.8780 · Jaccard 0.7960</code></td>
+  </tr>
+  <tr>
+    <td><strong>📄 IEEE + Springer</strong></td>
+    <td><a href="https://ieeexplore.ieee.org/document/9686145">B2X Communication System for Smart Autonomous Bikes</a> (2022)</td>
+  </tr>
+  <tr>
+    <td><strong>🤖 Anthropic Ed.</strong></td>
+    <td>Claude 101 · Claude Code 101 · Claude Code in Action · AI Fluency (2026)</td>
+  </tr>
+  <tr>
+    <td><strong>☁️ Oracle + AWS</strong></td>
+    <td>OCI 2023 AI Certified Foundations · OCI Foundation · ML Autonomous DB · AWS Cloud Practitioner</td>
+  </tr>
+  <tr>
+    <td><strong>🏃 UIPM</strong></td>
+    <td>2nd — Laser Run World Championship, Cairo 2021 · 3rd — Biathle/Triathle World Championships, Sarasota 2016</td>
+  </tr>
+</table>
+
+---
+
+## 🌟 Featured work
+
+<table>
+  <tr>
+    <td width="33%" valign="top">
+      <h3>🩺 Medical AI</h3>
+      <p><strong>Breast Ultrasound Segmentation</strong><br/>
+      <em>MSc thesis · 2025 · Dice 0.8780</em></p>
+      <p>U-Net variants (Classical · Attention · HAAM · ONN) trained on breast ultrasound imagery.</p>
+    </td>
+    <td width="33%" valign="top">
+      <h3>🚲 Smart City</h3>
+      <p><strong><a href="https://github.com/ARKhaled149/B2X-B2H-Gesture-Smart-Bike">Smart Bike B2X</a></strong><br/>
+      <em>BSc thesis · 2022 · IEEE + Springer</em></p>
+      <p>IoT bike with ML gesture recognition, cloud aggregation, GPS navigation.</p>
+    </td>
+    <td width="33%" valign="top">
+      <h3>🎮 Unity FPS</h3>
+      <p><strong><a href="https://github.com/ARKhaled149/Apex-Legends---The-Legion">Apex Legion</a></strong><br/>
+      <em>Undergrad team project · Unity · C#</em></p>
+      <p>3D FPS with enemy AI, character abilities, combat + parkour levels.</p>
+    </td>
+  </tr>
+</table>
+
+---
+
+## 🧠 Currently
+
+- 🔭 Building AI-driven energy systems at Elpro GmbH
+- 🌱 Deepening LLM engineering: agents, tool use, evals, prompt caching
+- 🌍 Improving German beyond C1 (self-assessed today, certification next)
+- 📝 Launching my redesigned portfolio at **[abdelrahman.eu](https://abdelrahman.eu)** — cosmic WebGL, Next.js + R3F
+
+---
+
+## 🛠 Stack
+
+<sub>Focused on what I ship with, not what I've touched once.</sub>
+
+**AI / ML** &nbsp;
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white&labelColor=04040A)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white&labelColor=04040A)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white&labelColor=04040A)
+![Hugging_Face](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=04040A&labelColor=04040A)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logoColor=white&labelColor=04040A)
+
+**Backend / APIs** &nbsp;
+![Python](https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=FFD54D&labelColor=04040A)
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat-square&logo=fastapi&logoColor=white&labelColor=04040A)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white&labelColor=04040A)
+![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white&labelColor=04040A)
+
+**Frontend** &nbsp;
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white&labelColor=04040A)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=C6FF3D&labelColor=04040A)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=04040A&labelColor=04040A)
+![Three.js](https://img.shields.io/badge/Three.js-000000?style=flat-square&logo=threedotjs&logoColor=white&labelColor=04040A)
+
+**Cloud / Infra** &nbsp;
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazonwebservices&logoColor=white&labelColor=04040A)
+![Oracle_Cloud](https://img.shields.io/badge/OCI-F80000?style=flat-square&logo=oracle&logoColor=white&labelColor=04040A)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white&labelColor=04040A)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white&labelColor=04040A)
+
+**XR / Data** &nbsp;
+![Unity](https://img.shields.io/badge/Unity-000000?style=flat-square&logo=unity&logoColor=white&labelColor=04040A)
+![Meta_Quest](https://img.shields.io/badge/Meta_Quest-1877F2?style=flat-square&logo=meta&logoColor=white&labelColor=04040A)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white&labelColor=04040A)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white&labelColor=04040A)
+
+---
+
+## 📊 GitHub
+
+<p align="center">
+  <a href="https://github.com/ARKhaled149">
+    <img height="165" src="https://github-readme-stats.vercel.app/api?username=ARKhaled149&show_icons=true&theme=radical&bg_color=04040A&title_color=C6FF3D&icon_color=8A5CFF&text_color=F2F0EA&border_color=111127&hide_border=false&rank_icon=github" alt="stats"/>
+    <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=ARKhaled149&theme=radical&background=04040A&ring=C6FF3D&fire=8A5CFF&currStreakLabel=C6FF3D&sideLabels=F2F0EA&dates=9993B5&border=111127&hide_border=false" alt="streak"/>
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/ARKhaled149">
+    <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ARKhaled149&layout=compact&theme=radical&bg_color=04040A&title_color=C6FF3D&text_color=F2F0EA&border_color=111127&hide_border=false&langs_count=8" alt="top langs"/>
+  </a>
+</p>
+
+---
+
+## 🐍 Contribution
+
+<p align="center">
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/ARKhaled149/ARKhaled149/output/github-snake-dark.svg" />
+</p>
+
+---
+
+## 📫 Reach me
+
+- Portfolio — **[abdelrahman.eu](https://abdelrahman.eu)**
+- LinkedIn — **[in/abdelrahman-abdelrahman-swe](https://linkedin.com/in/abdelrahman-abdelrahman-swe)**
+- Email — **[arkhaled.1490@gmail.com](mailto:arkhaled.1490@gmail.com)**
+- Discord — **[@a.r.khaled](https://discord.com/users/625086191083061268)**
+
+<sub><em>Every setback taught me something. The journey continues. — Berlin, 2026</em></sub>
